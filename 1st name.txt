@@ -1,0 +1,6 @@
+1st name
+2nd name 
+
+alternamete GITclass
+
+git init
