@@ -6,3 +6,7 @@ alternamete GITclass
 git init
 
 Git add
+
+git log
+
+git commit -m
