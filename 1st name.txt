@@ -12,3 +12,8 @@ git log
 git commit -m
 
 GIt aaaa
+
+
+rep URL =  https://github.com/RajeshKumaran339/GITclassdev
+
+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   - token
